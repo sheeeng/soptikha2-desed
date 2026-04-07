@@ -83,6 +83,10 @@ Runtime: `sed` (GNU version, >= 4.6) (desed works on BSD if you installed `gsed`
 - `l` to instantly reload code and continue debugging in the exactly same place as before
 - `q` to [quit](https://github.com/hakluke/how-to-exit-vim)
 
+# Contributing
+
+This codebase is currently not under active development (I'll hopefully get to rewriting the parser, fr. I have written this as my first rust project, and it really shows in the code quality.), but I'm reviewing and accepting PRs. Note that this codebase is human-written. I do not mind LLM-assisted/written code, but if you do not write it by hand, please do review it by hand. Thank you!
+
 # FAQ
 
 ## How does it work?
